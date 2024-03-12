@@ -1,4 +1,6 @@
 # gestionnairelol
+NE PAS UTILISER POUR DES COMPTES IMPORTANT CA N'EST ABSOLUMENT PAS SECURE
+
 Gestionnaire de comptes en batch, penser pour être utiliser avec le client league of legends.
 
 Fonctionnement
